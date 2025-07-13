@@ -22,8 +22,6 @@
 🔹 JavaScript
 
 🛠️ **Habilidades:**
-
-- Versionamento com Git e GitHub
   
 - Organização de projetos com Trello
   
